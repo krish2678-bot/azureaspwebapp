@@ -8,7 +8,7 @@ pool:
 variables:
   buildConfiguration: 'Release'
   resourceGroupName: 'rg-webapp-demo1'
-  location: 'Central India'
+  location: 'centralus'
   appName: 'webapp-demo-324598'
   appServicePlanName: 'asp-webapp-demo'
 
