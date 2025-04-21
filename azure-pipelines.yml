@@ -4,6 +4,7 @@ trigger:
 pool:
   vmImage: 'windows-latest'
 
+
 variables:
   buildConfiguration: 'Release'
   resourceGroupName: 'rg-webapp-demo1'
