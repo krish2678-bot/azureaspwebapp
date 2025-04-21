@@ -9,7 +9,7 @@ variables:
   buildConfiguration: 'Release'
   resourceGroupName: 'rg-webapp-demo1'
   location: 'centralus'
-  appName: 'webapp-demo-324598'
+  appName: 'webapp-demo-220425'
   appServicePlanName: 'asp-webapp-demo'
 
 stages:
